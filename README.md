@@ -123,13 +123,10 @@ return 0;
 
 ## OUTPUT
 $ ./sem.o 
-![alt text](image.png)
-
+![image](https://github.com/user-attachments/assets/9bb46e34-df0d-421f-b032-8f9bc016b6ab)
 
 $ ipcs
-![alt text](image-1.png)
-
-
+![image](https://github.com/user-attachments/assets/0df2bf77-c17f-41dc-ac24-89939434a717)
 
 
 
